@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mundo Invertido | Semana Front-end</title>
+    <title>Mundo Invertido | do Zero ao Front End</title>
 
     <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
@@ -134,7 +134,27 @@
     
     <script type="module" src="assets/js/main.js"></script>
     <script>
-      
+function switchTheme() {
+    document.body.classList.toggle('dark-theme');
+    document.body.classList.toggle('light-theme');
+
+    const music = document.getElementById('music');
+    if (document.body.classList.contains('dark-theme')) {
+        music.src = 'assets/musics/inverted-world.mpeg';
+    } else {
+        music.src = 'assets/musics/normal-world.mpeg';
+    }
+    music.play();
+    document.addEventListener('DOMContentLoaded', () => {
+    const music = document.getElementById('music');
+   
+    music.play().catch(error => {
+        console.log('Autoplay blocked:', error);
+   
+   
+    });
+});
+}
     </script>
   </body>
 </html>
