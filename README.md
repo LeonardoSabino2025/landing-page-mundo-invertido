@@ -78,6 +78,29 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
   --footer-background-color: #000;
 }
 ```
+
+### 🛠️ O que foi feito neste projeto (por Leonardo Sabino)
+
+    Implementação da funcionalidade de alternar entre o tema claro e escuro (Mundo Normal / Mundo Invertido), incluindo a troca da música de fundo e efeitos visuais no tema escuro.
+    Correção do erro de ReferenceError: switchTheme is not defined ao garantir que a função switchTheme esteja acessível globalmente ou devidamente manipulada via addEventListener no JavaScript.
+    Ajuste da reprodução automática de áudio para considerar as políticas de autoplay dos navegadores modernos, adicionando um mecanismo para tentar tocar a música após uma interação do usuário ou ao carregar a página.
+    Correção da URL do iframe do YouTube para exibir o trailer corretamente, resolvendo o erro de CORS.
+
+
+### ✨ Demonstração Online
+
+Confira a versão online deste projeto com as minhas implementações:
+https://leonardosabino2025.github.io/landing-page-mundo-invertido/
+
+### 👨‍💻 Contato do Desenvolvedor
+
+Interessado em contratar meus serviços? Entre em contato!
+
+    LinkedIn: https://www.linkedin.com/in/leonardo-sabino/
+    Email: leonardocorreiasabino@gmail.com
+
+
+
 ## 🔗 Links auxiliares
 
 - [W3C - World Wide Web Consortium](http://w3c.org)
