@@ -27,9 +27,9 @@ Confira a [versão online](https://leonardosabino2025.github.io/landing-page-mun
 Interessado em contratar meus serviços? Entre em contato!
 
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/192727157?v=4/>
-    <p>&nbsp&nbsp&nbspLeonardo Sabino<br>
-    &nbsp&nbsp&nbsp<a href="https://www.instagram.com/leonardocsabino">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/LeonardoSabino2025">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/leonardo-sabino/">LinkedIn</p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/192727157?v=4"/>
+    <p>Leonardo Sabino<br>
+    <a href="https://www.instagram.com/leonardocsabino/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/LeonardoSabino2025">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/leonardo-sabino/">LinkedIn</p>
 </p>
 
 ## 🔗 Links auxiliares
@@ -40,7 +40,6 @@ Interessado em contratar meus serviços? Entre em contato!
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 
 ## 🌎 Redes sociais dos orientadores:
->>>>>>> 955f7ed (Atualiza README.md com minhas contribuicoes e contato)
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
     <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
